@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9467868208885193,
+        "coordinates": {
+            "points": [
+                [
+                    376.8130187988281,
+                    786.1309814453125
+                ],
+                [
+                    376.8130187988281,
+                    1010.6326904296875
+                ],
+                [
+                    1339.2027587890625,
+                    1010.6326904296875
+                ],
+                [
+                    1339.2027587890625,
+                    786.1309814453125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "1548efaaa18cf819f9498d76a0440316",
+        "category": "NarrativeText",
+        "element_id": "6d86828deb4aca738341c1a5ce04afc3"
+    },
+    "page_content": "Recently, various DL models and datasets have been developed for layout analysis tasks. The dhSegment [22] utilizes fully convolutional networks [20] for segmen- tation tasks on historical documents. Object detection-based methods like Faster R-CNN and Mask R-CNN are used for identifying document elements and detecting tables [30}|26]. Most recently, Graph Neural Networks have also been used in table detection [27]. However, these models are usually implemented individually and there is no unified framework to load and use such models.",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.5937545895576477,
+        "coordinates": {
+            "points": [
+                [
+                    368.7975769042969,
+                    470.9972229003906
+                ],
+                [
+                    368.7975769042969,
+                    534.2135009765625
+                ],
+                [
+                    1341.0372314453125,
+                    534.2135009765625
+                ],
+                [
+                    1341.0372314453125,
+                    470.9972229003906
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "34d2680c392b12a11bdcd6fadc2a0743",
+        "category": "NarrativeText",
+        "element_id": "dd38b53bbe41c9b394a32d7af78bd922"
+    },
+    "page_content": "Zejiang Shen! (4), Ruochen Zhang”, Melissa Dell?, Benjamin Charles Germain Lee*, Jacob Carlson’, and Weining Li®",
+    "type": "Document"
+}

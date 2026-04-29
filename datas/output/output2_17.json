@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9384046196937561,
+        "coordinates": {
+            "points": [
+                [
+                    377.9958190917969,
+                    1522.4461669921875
+                ],
+                [
+                    377.9958190917969,
+                    1712.2025146484375
+                ],
+                [
+                    1339.99853515625,
+                    1712.2025146484375
+                ],
+                [
+                    1339.99853515625,
+                    1522.4461669921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "NarrativeText",
+        "element_id": "1991d5703137557a209fdeebbf95d199"
+    },
+    "page_content": "The library implements simple and intuitive Python APIs without sacrificing generalizability and versatility, and can be easily installed via pip. Its convenient functions for handling document image data can be seamlessly integrated with existing DIA pipelines. With detailed documentations and carefully curated tutorials, we hope this tool will benefit a variety of end-users, and will lead to advances in applications in both industry and academic research.",
+    "type": "Document"
+}

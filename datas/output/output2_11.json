@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9427937865257263,
+        "coordinates": {
+            "points": [
+                [
+                    381.8379211425781,
+                    498.15484619140625
+                ],
+                [
+                    381.8379211425781,
+                    1084.1729736328125
+                ],
+                [
+                    1332.357666015625,
+                    1084.1729736328125
+                ],
+                [
+                    1332.357666015625,
+                    498.15484619140625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "NarrativeText",
+        "element_id": "2fc307a579269b537ece962e6b159887"
+    },
+    "page_content": "However, there are several practical difficulties for taking advantages of re- cent advances in DL-based methods: 1) DL models are notoriously convoluted for reuse and extension. Existing models are developed using distinct frame- works like TensorFlow or PyTorch and the high-level parameters can be obfuscated by implementation details [8]. It can be a time-consuming and frustrating experience to debug, reproduce, and adapt existing models for DIA, and many researchers who would benefit the most from using these methods lack the technical background to implement them from scratch. 2) Document images contain diverse and disparate patterns across domains, and customized training is often required to achieve a desirable detection accuracy. Currently there is no full-fledged infrastructure for easily curating the target document image datasets and fine-tuning or re-training the models. 3) DIA usually requires a sequence of models and other processing to obtain the final outputs. Often research teams use DL models and then perform further document analyses in separate processes, and these pipelines are not documented in any central location (and often not documented at all). This makes it difficult for research teams to learn about how full pipelines are implemented and leads them to invest significant resources in reinventing the DIA wheel.",
+    "type": "Document"
+}

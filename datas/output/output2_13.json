@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9109996557235718,
+        "coordinates": {
+            "points": [
+                [
+                    366.287353515625,
+                    1208.8582763671875
+                ],
+                [
+                    366.287353515625,
+                    1266.511962890625
+                ],
+                [
+                    1346.5506591796875,
+                    1266.511962890625
+                ],
+                [
+                    1346.5506591796875,
+                    1208.8582763671875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "ListItem",
+        "element_id": "ec87e08451ea728f895d9f981b137377"
+    },
+    "page_content": "1. An off-the-shelf toolkit for applying DL models for layout detection, character recognition, and other DIA tasks (Section B)",
+    "type": "Document"
+}

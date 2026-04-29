@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.7935975790023804,
+        "coordinates": {
+            "points": [
+                [
+                    577.8140869140625,
+                    566.1823120117188
+                ],
+                [
+                    577.8140869140625,
+                    866.3065185546875
+                ],
+                [
+                    1140.197265625,
+                    866.3065185546875
+                ],
+                [
+                    1140.197265625,
+                    566.1823120117188
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "34d2680c392b12a11bdcd6fadc2a0743",
+        "category": "NarrativeText",
+        "element_id": "5d42c7eabd8defc5e4e02fa279b83fc5"
+    },
+    "page_content": "1 Allen Institute for AI shannons@allenai.org ? Brown University ruochen_zhang@brown.edu 3 Harvard University {melissadell, jacob_carlson}@fas.harvard.edu * University of Washington begl@cs.washington. edu © University of Waterloo w4221i@uwaterloo.ca",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.940549910068512,
+        "coordinates": {
+            "points": [
+                [
+                    371.3154602050781,
+                    328.6764221191406
+                ],
+                [
+                    371.3154602050781,
+                    487.73095703125
+                ],
+                [
+                    1341.770263671875,
+                    487.73095703125
+                ],
+                [
+                    1341.770263671875,
+                    328.6764221191406
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "NarrativeText",
+        "element_id": "a34bf40d5e3a68111c584a01a13c6c0a"
+    },
+    "page_content": "[37], layout detection , table detection and scene text detection [4]. A generalized learning-based framework dramatically reduces the need for the manual specification of complicated rules, which is the status quo with traditional methods. DL has the potential to transform DIA pipelines and benefit a broad spectrum of large-scale document digitization projects.",
+    "type": "Document"
+}

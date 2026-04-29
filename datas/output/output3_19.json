@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.4143248200416565,
+        "coordinates": {
+            "points": [
+                [
+                    655.7672729492188,
+                    259.3067626953125
+                ],
+                [
+                    655.7672729492188,
+                    282.0976867675781
+                ],
+                [
+                    1340.968505859375,
+                    282.0976867675781
+                ],
+                [
+                    1340.968505859375,
+                    259.3067626953125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "Header",
+        "element_id": "d10cc755a4e1faa770058420db8e187b"
+    },
+    "page_content": "LayoutParser: A Unified Toolkit for DL-Based DIA 3",
+    "type": "Document"
+}

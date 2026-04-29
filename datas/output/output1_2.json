@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.5316110849380493,
+        "coordinates": {
+            "points": [
+                [
+                    435.65936279296875,
+                    318.66143798828125
+                ],
+                [
+                    435.65936279296875,
+                    409.0640869140625
+                ],
+                [
+                    1274.9832763671875,
+                    409.0640869140625
+                ],
+                [
+                    1274.9832763671875,
+                    318.66143798828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e775cb6fd06e8673b63c2fa5976c7c98",
+        "category": "Title",
+        "element_id": "34d2680c392b12a11bdcd6fadc2a0743"
+    },
+    "page_content": "LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis",
+    "type": "Document"
+}

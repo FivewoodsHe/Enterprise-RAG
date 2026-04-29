@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9003021121025085,
+        "coordinates": {
+            "points": [
+                [
+                    372.4079284667969,
+                    1723.7125244140625
+                ],
+                [
+                    372.4079284667969,
+                    1750.969482421875
+                ],
+                [
+                    636.2843627929688,
+                    1750.969482421875
+                ],
+                [
+                    636.2843627929688,
+                    1723.7125244140625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e775cb6fd06e8673b63c2fa5976c7c98",
+        "category": "Title",
+        "element_id": "5590ce6c6673c67743f8e61697c5b3c7"
+    },
+    "page_content": "1 Introduction",
+    "type": "Document"
+}

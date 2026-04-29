@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9450231194496155,
+        "coordinates": {
+            "points": [
+                [
+                    379.3697814941406,
+                    1021.0667724609375
+                ],
+                [
+                    379.3697814941406,
+                    1542.7628173828125
+                ],
+                [
+                    1332.877685546875,
+                    1542.7628173828125
+                ],
+                [
+                    1332.877685546875,
+                    1021.0667724609375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "1548efaaa18cf819f9498d76a0440316",
+        "category": "NarrativeText",
+        "element_id": "fd4150816138b0c41634479e229de4d5"
+    },
+    "page_content": "There has been a surge of interest in creating open-source tools for document image processing: a search of document image analysis in Github leads to 5M relevant code pieces P| yet most of them rely on traditional rule-based methods or provide limited functionalities. The closest prior research to our work is the OCR-D project’ which also tries to build a complete toolkit for DIA. However, similar to the platform developed by Neudecker et al. [21], it is designed for analyzing historical documents, and provides no supports for recent DL models. The DocumentLayoutAnalysis project} focuses on processing born-digital PDF documents via analyzing the stored PDF data. Repositories like DeepLayout)?| and Detectron2-PubLayNet]™| are individual deep learning models trained on layout analysis datasets without support for the full DIA pipeline. The Document Analysis and Exploitation (DAE) platform [15] and the DeepDIVA project [2] aim to improve the reproducibility of DIA methods (or DL models), yet they are not actively maintained. OCR engines like Tesseract [14], easy0CH\"| and paddle0cH”| usually do not come with comprehensive functionalities for other DIA tasks like layout analysis.",
+    "type": "Document"
+}

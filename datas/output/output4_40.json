@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.8674455285072327,
+        "coordinates": {
+            "points": [
+                [
+                    371.2597351074219,
+                    1618.875244140625
+                ],
+                [
+                    371.2597351074219,
+                    1644.6290283203125
+                ],
+                [
+                    938.9431762695312,
+                    1644.6290283203125
+                ],
+                [
+                    938.9431762695312,
+                    1618.875244140625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "Title",
+        "element_id": "5a1838a8f40b4523094652cf14ab974c"
+    },
+    "page_content": "3 The Core LayoutParser Library",
+    "type": "Document"
+}

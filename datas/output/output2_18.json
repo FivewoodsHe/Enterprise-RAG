@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9325140118598938,
+        "coordinates": {
+            "points": [
+                [
+                    366.2721862792969,
+                    1721.3472900390625
+                ],
+                [
+                    366.2721862792969,
+                    1845.2147216796875
+                ],
+                [
+                    1342.40869140625,
+                    1845.2147216796875
+                ],
+                [
+                    1342.40869140625,
+                    1721.3472900390625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "NarrativeText",
+        "element_id": "2cd8a84cb9728422753a0a1a0efbf423"
+    },
+    "page_content": "LayoutParser is well aligned with recent efforts for improving DL model reusability in other disciplines like natural language processing [8] and com- puter vision [35], but with a focus on unique challenges in DIA. We show LayoutParser can be applied in sophisticated and large-scale digitization projects",
+    "type": "Document"
+}

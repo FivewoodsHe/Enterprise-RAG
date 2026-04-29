@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9220065474510193,
+        "coordinates": {
+            "points": [
+                [
+                    372.48797607421875,
+                    1405.6610107421875
+                ],
+                [
+                    372.48797607421875,
+                    1495.432861328125
+                ],
+                [
+                    1350.818359375,
+                    1495.432861328125
+                ],
+                [
+                    1350.818359375,
+                    1405.6610107421875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "ListItem",
+        "element_id": "f8241d8e2981871b0cdf9206a570dfbc"
+    },
+    "page_content": "4. A DL model hub and community platform for the easy sharing, distribu- tion, and discussion of DIA models and pipelines, to promote reusability, reproducibility, and extensibility (Section [4)",
+    "type": "Document"
+}

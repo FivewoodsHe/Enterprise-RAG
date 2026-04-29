@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.6570022702217102,
+        "coordinates": {
+            "points": [
+                [
+                    378.20672607421875,
+                    1733.96044921875
+                ],
+                [
+                    378.20672607421875,
+                    1754.355712890625
+                ],
+                [
+                    868.742919921875,
+                    1754.355712890625
+                ],
+                [
+                    868.742919921875,
+                    1733.96044921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "Footer",
+        "element_id": "b4bb83d9f784c18bdad5c53ebfa7af57"
+    },
+    "page_content": "° https: //github.com/leonlulu/DeepLayout",
+    "type": "Document"
+}

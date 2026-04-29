@@ -1,0 +1,16 @@
+# ~/.codex/config.toml
+
+# 使用的模型（默认 gpt-5）
+model = "gpt-5.2"
+
+# 推理质量：low / medium / high（影响速度和准确性）
+model_reasoning_effort = "high"
+
+# 模型提供商
+model_provider = "openai"
+
+# 默认审批模式
+approval_mode = "auto-edit"
+
+# 是否禁用响应存储（隐私保护）
+disable_response_storage = false

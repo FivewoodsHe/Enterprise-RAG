@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.8352292776107788,
+        "coordinates": {
+            "points": [
+                [
+                    378.6520690917969,
+                    729.1928100585938
+                ],
+                [
+                    378.6520690917969,
+                    1022.4301147460938
+                ],
+                [
+                    1336.677978515625,
+                    1022.4301147460938
+                ],
+                [
+                    1336.677978515625,
+                    729.1928100585938
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "NarrativeText",
+        "element_id": "81da9b1bf2a62f82ed6ad97735e97016"
+    },
+    "page_content": "Fig. 1: The overall architecture of LayoutParser. For an input document image, the core LayoutParser library provides a set of off-the-shelf tools for layout detection, OCR, visualization, and storage, backed by a carefully designed layout data structure. LayoutParser also supports high level customization via efficient layout annotation and model training functions. These improve model accuracy on the target samples. The community platform enables the easy sharing of DIA models and whole digitization pipelines to promote reusability and reproducibility. A collection of detailed documentation, tutorials and exemplar projects make LayoutParser easy to learn and use.",
+    "type": "Document"
+}

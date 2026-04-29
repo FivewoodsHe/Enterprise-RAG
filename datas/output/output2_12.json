@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9283877611160278,
+        "coordinates": {
+            "points": [
+                [
+                    364.5456848144531,
+                    1093.0306396484375
+                ],
+                [
+                    364.5456848144531,
+                    1183.386474609375
+                ],
+                [
+                    1341.6549072265625,
+                    1183.386474609375
+                ],
+                [
+                    1341.6549072265625,
+                    1093.0306396484375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "NarrativeText",
+        "element_id": "3406ee35b89b5a3259d0100127851ba4"
+    },
+    "page_content": "LayoutParser provides a unified toolkit to support DL-based document image analysis and processing. To address the aforementioned challenges, LayoutParser is built with the following components:",
+    "type": "Document"
+}

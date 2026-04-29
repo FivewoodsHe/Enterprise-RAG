@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9144864082336426,
+        "coordinates": {
+            "points": [
+                [
+                    445.13092041015625,
+                    1610.5423583984375
+                ],
+                [
+                    445.13092041015625,
+                    1662.734619140625
+                ],
+                [
+                    1263.8441162109375,
+                    1662.734619140625
+                ],
+                [
+                    1263.8441162109375,
+                    1610.5423583984375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "34d2680c392b12a11bdcd6fadc2a0743",
+        "category": "NarrativeText",
+        "element_id": "cbf0d4fb1fd9a86834e3a6399b120809"
+    },
+    "page_content": "Keywords: Document Image Analysis - Deep Learning - Layout Analysis - Character Recognition - Open Source library - Toolkit.",
+    "type": "Document"
+}

@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    466.0,
+                    1700.0
+                ],
+                [
+                    466.0,
+                    1725.0
+                ],
+                [
+                    1004.0,
+                    1725.0
+                ],
+                [
+                    1004.0,
+                    1700.0
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "UncategorizedText",
+        "element_id": "89c54ea4a328916dddece060e1fe107b"
+    },
+    "page_content": "//github.com/BobLd/DocumentLayout",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.948761522769928,
+        "coordinates": {
+            "points": [
+                [
+                    378.9983825683594,
+                    1096.7940673828125
+                ],
+                [
+                    378.9983825683594,
+                    1321.98291015625
+                ],
+                [
+                    1333.5828857421875,
+                    1321.98291015625
+                ],
+                [
+                    1333.5828857421875,
+                    1096.7940673828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "NarrativeText",
+        "element_id": "80ddfea5451c651c939f5be24f6835d6"
+    },
+    "page_content": "AllenNLP [8] and transformers [34] have provided the community with complete DL-based support for developing and deploying models for general computer vision and natural language processing problems. LayoutParser, on the other hand, specializes specifically in DIA tasks. LayoutParser is also equipped with a community platform inspired by established model hubs such as Torch Hub [23] and TensorFlow Hub [I]. It enables the sharing of pretrained models as well as full document processing pipelines that are unique to DIA tasks.",
+    "type": "Document"
+}

@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    374.0,
+                    1789.0
+                ],
+                [
+                    374.0,
+                    1847.0
+                ],
+                [
+                    929.0,
+                    1847.0
+                ],
+                [
+                    929.0,
+                    1789.0
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "UncategorizedText",
+        "element_id": "54fc073b4ea2864dd6aac97e4ef94ed9"
+    },
+    "page_content": "' https://github.com/JaidedAI/EasyOCR. ' https://github.com/PaddlePaddle/PaddleOCR",
+    "type": "Document"
+}

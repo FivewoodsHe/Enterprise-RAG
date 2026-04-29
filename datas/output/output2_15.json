@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.9031716585159302,
+        "coordinates": {
+            "points": [
+                [
+                    374.012451171875,
+                    1340.760009765625
+                ],
+                [
+                    374.012451171875,
+                    1397.673583984375
+                ],
+                [
+                    1346.012939453125,
+                    1397.673583984375
+                ],
+                [
+                    1346.012939453125,
+                    1340.760009765625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "parent_id": "e7e0acf197e89d650d39fa3ce929509e",
+        "category": "ListItem",
+        "element_id": "7338a6be0ca9ac6c8eb4a9d785802f70"
+    },
+    "page_content": "3. Comprehensive tools for efficient document image data annotation and model tuning to support different levels of customization",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.4901798367500305,
+        "coordinates": {
+            "points": [
+                [
+                    367.6236877441406,
+                    1640.0799560546875
+                ],
+                [
+                    367.6236877441406,
+                    1662.7760009765625
+                ],
+                [
+                    1201.953857421875,
+                    1662.7760009765625
+                ],
+                [
+                    1201.953857421875,
+                    1640.0799560546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "Footer",
+        "element_id": "af28a45d15383820734ca0bafaba71bc"
+    },
+    "page_content": "© The number shown is obtained by specifying the search type as ‘code’.",
+    "type": "Document"
+}

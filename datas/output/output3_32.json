@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "/home/pythonTest/layout-parser-paper.pdf",
+        "detection_class_prob": 0.7597214579582214,
+        "coordinates": {
+            "points": [
+                [
+                    380.3194580078125,
+                    1763.929443359375
+                ],
+                [
+                    380.3194580078125,
+                    1785.2425537109375
+                ],
+                [
+                    877.1266479492188,
+                    1785.2425537109375
+                ],
+                [
+                    877.1266479492188,
+                    1763.929443359375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1700,
+            "layout_height": 2200
+        },
+        "last_modified": "2025-09-15T08:35:15",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "/home/pythonTest",
+        "filename": "layout-parser-paper.pdf",
+        "category": "Footer",
+        "element_id": "5f9ac08883c52491d16cde5e39ba8c6e"
+    },
+    "page_content": "https: //github.com/hpanwar08/detectron2",
+    "type": "Document"
+}
